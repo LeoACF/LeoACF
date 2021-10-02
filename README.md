@@ -6,6 +6,6 @@ Prazer, me chamo Leonardo, tenho 19 anos e sou estudante de Tecnologia em análi
 Formas de contato:
 
 - Email: leo.coelhoferreira@gmail.com
-- Linkedin: ...
+- Linkedin: https://www.linkedin.com/in/leonardo-ferreira-5275471b1/
 
 -->

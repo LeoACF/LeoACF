@@ -1,7 +1,7 @@
 ### Hi there 
 
 ## Sobre mim
-Prazer, me chamo Leonardo, tenho 19 anos e sou estudante de Tecnologia em análise e desenvolvimento de sistemas na UNINOVE, e Engenharia da Computação na UNIVESP.
+Prazer, me chamo Leonardo, tenho 20 anos e sou estudante de Tecnologia em análise e desenvolvimento de sistemas na UNINOVE, e Engenharia da Computação na UNIVESP.
 
 ## Contatos:
 

@@ -6,7 +6,8 @@ Prazer, me chamo Leonardo, tenho 19 anos e sou estudante de Tecnologia em análi
 ## Contatos:
 
 - Email: leo.coelhoferreira@gmail.com
-<code><img widht="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-original.svg">https://www.linkedin.com/in/leonardo-ac-ferreira/</code>
+<code><img widht="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-original.svg"></code>
+<code><img widht="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/leonardo-ac-ferreira/"></code>
 ## Habilidades: 
 
 <code><img widht="30" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>

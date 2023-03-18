@@ -25,3 +25,6 @@ Prazer, me chamo Leonardo, tenho 20 anos e sou estudante de Tecnologia em análi
 <code><img widht="30" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img widht="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-original.svg"></code>
 <code><img widht="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"></code>
+
+
+<a href="https://app.daily.dev/leo_ACFerreira"><img src="https://api.daily.dev/devcards/47bb63702a6949629ece80d5b3b505e3.png?r=g40" width="400" alt="Leonardo Ferreira's Dev Card"/></a>

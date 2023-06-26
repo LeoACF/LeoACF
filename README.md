@@ -13,5 +13,5 @@ Prazer, me chamo Leonardo, tenho 21 anos. Sou Formado em Tecnologia em análise 
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,mysql,nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python,php,bootstrap,c#,react,raspberrypi,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,php,bootstrap,c#,react,raspberrypi)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,dotnet,aws,raspberrypi,mongodb,java,heroku))](https://skillicons.dev)

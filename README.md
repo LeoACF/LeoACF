@@ -25,4 +25,4 @@ Prazer, me chamo Leonardo, tenho 21 anos. Sou Formado em Tecnologia em análise 
 <code><img widht="30" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img widht="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-original.svg"></code>
 <code><img widht="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"></code>
-
+[![My Skills](https://skillicons.dev/icons?i=js,aws,nodejs,react,raspberrypy,mongodb)](https://skillicons.dev)

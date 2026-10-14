@@ -1,7 +1,7 @@
 ### Hello there 
 <a href="https://app.daily.dev/leo_ACFerreira"><img src="https://api.daily.dev/devcards/47bb63702a6949629ece80d5b3b505e3.png?r=g40" width="400" alt="Leonardo Ferreira's Dev Card"/></a>
 ## Sobre mim
-Prazer, me chamo Leonardo, tenho 24 anos. Sou Formado em Tecnologia em análise e desenvolvimento de sistemas na UNINOVE, e estudante de Engenharia da Computação na UNIVESP.
+Prazer, me chamo Leonardo, tenho 24 anos. Sou Formado em Tecnologia em análise e desenvolvimento de sistemas na UNINOVE, e em Engenharia da Computação na UNIVESP.
 
 ## Contatos:
 
